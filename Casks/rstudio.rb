@@ -1,6 +1,6 @@
 cask :v1 => 'rstudio' do
-  version '0.99.235'
-  sha256 '5543e5b9d405259abb6969216a2757366c451b848adaecd42bb48c6855842235'
+  version '0.99.332'
+  sha256 'f0c71871c879a5f04fbd750c8d6d78c9845723c7cc829210bb9b4073e0c42688'
 
   # rstudio.org is the official download host per the vendor homepage
   url "https://s3.amazonaws.com/rstudio-dailybuilds/RStudio-#{version}.dmg"
